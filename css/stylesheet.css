@@ -221,6 +221,10 @@ footer ul.socials li:not(:first-child) {
 body {
   text-align: center;
 }
+.nav-bar {
+  margin: auto;
+  }
+  
 .top-container {
   flex-direction: column-reverse;
 }
